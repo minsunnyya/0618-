@@ -30,3 +30,52 @@ f= int(input("숫자"))
 print("합은?", (a+b))
 
 
+5
+
+
+
+
+
+
+54
+
+movie_rank = ["배트맨", "슈퍼맨","스플릿","슈퍼맨"]
+del movie_rank[1:3]
+print(movie_rank)
+
+
+age = int(input("나이를 입력하세요."))
+if age >= 20
+print("주류판매 가능")
+if else age < 20
+print("주류판매 불가능"
+
+
+
+age = int(input("나이 : "))
+
+if age >= 20:
+ print("주류판매 가능")
+elif age < 20 : 
+ print("주류판매 불가능")
+
+ num = int(input('숫자 : '))
+
+if num%2==0:
+    print("짝수")
+
+    
+if num%2==1:
+    print("홀수")
+    
+
+
+
+    age = int(input("나이입력 : "))
+
+if age >= 20:
+    print("주류판매 가능")
+
+else :
+    
+    print("주류판매 불가능")
